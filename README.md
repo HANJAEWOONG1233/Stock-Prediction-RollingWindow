@@ -119,7 +119,7 @@
 
 ---
 
-## 5. Usage Guide (No Code)
+## 5. Usage Guide
 
 1. **데이터 준비**  
    - 4시간봉 CSV 파일 준비 (time, open, high, low, close, volume 필수)  
