@@ -1,6 +1,5 @@
-# Stock-Prediction-RollingWindow
+# Stock-Prediction-4-Hour Rolling Prediction & Factor-Based Backtesting
 
-# 4-Hour Rolling Prediction & Factor-Based Backtesting
 
 4시간봉 데이터를 이용해 봉의 중앙값을 예측하고, 예측 결과를 **factor**를 통해 조정 후 롱/숏 매매 시뮬레이션을 수행한 프로젝트입니다. 아래는 **코드 구조**와 **백테스트 결과**, 그리고 그래프를 삽입할 수 있도록 여유 공간을 둔 README 형식입니다.
 
